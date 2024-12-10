@@ -1,0 +1,5 @@
+.grid-test {
+  height: 300px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
