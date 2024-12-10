@@ -1,5 +1,5 @@
 // import { BaseModal } from '@/features/Modal/BaseModal'
-import { CSchedule, type CellSLot, type ScheduleDataItem } from '@/features/Schedule'
+import { CSchedule, type ScheduleDataItem } from '@/features/Schedule'
 import { defineComponent, ref } from 'vue'
 import './styles.css'
 
